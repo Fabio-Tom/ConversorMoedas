@@ -4,9 +4,14 @@ Este conversor faz atualizações imediatas dos valores cotados das divisas atra
 ### <font color="red">Como funciona</font>
 Pela tela de comando o usuario escolhe primeiro a divisa que quer fazer a conversão. Na tela aparecem 6 opções. Logo depois o usuario escolherá a divisa que será alvo de sua conversão. Por último o usuario coloca o valor que ele gostaria de estar convertendo. Logo o usuario terá o valor total resultante desta conversão.
 #### Autor
-Fábio Francisco de Souza   <img src="https://github.com/user-attachmentps/assets/e22452f3-b76a-45cf-a329-23edb6def634" width="5%">
 
-[LinkedIn](www.linkedin.com/in/fabio-f-souza-dev)
+
+<em>Fábio Francisco de Souza</em>                <img src="https://github.com/user-attachments/assets/dd2c6796-9de9-4fd3-9bc4-1c658ca8efd0" width="3%">
+
+                                                          
+
+[LinkedIn](https://www.linkedin.com/in/fabio-f-souza-dev)
+
 
 
 
